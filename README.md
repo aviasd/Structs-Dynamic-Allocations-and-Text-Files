@@ -46,4 +46,4 @@ Then a row for each child: Child's ID, Child's age.
 
 Example:
 
-![image](https://raw.githubusercontent.com/aviasd/Structs-Dynamic-Allocations-and-Text-Files/master/file%20format%20city.png)
+![image](https://raw.githubusercontent.com/aviasd/Structs-Dynamic-Allocations-and-Text-Files/master/README%20files/file%20format%20city.png)
